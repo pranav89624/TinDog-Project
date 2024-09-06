@@ -12,6 +12,6 @@ Usage :
 <pre>
   Simply open the index.html file in your preferred web browser to see the TinDog site in action.
   OR
-  Go to the website I provided in the 
+  Go to the website I provided in the about section of this repository.
   The project is fully responsive and optimized for various screen sizes.
 </pre>
