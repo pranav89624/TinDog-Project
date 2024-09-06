@@ -3,9 +3,12 @@ TinDog is a web application designed to showcase my skills in HTML, CSS, and Boo
 <br><br>
 Features: 
 <pre>
-  > Responsive Design: Ensures a seamless experience across all devices with the help of <br>    Bootstrap's responsive grid system.
-  > Modern UI: A clean, contemporary interface that is easy to navigate and visually appealing.
-  > Interactive Elements: Utilize Bootstrap's components to create a dynamic and engaging user experience.
+  > Responsive Design: 
+      Ensures a seamless experience across all devices with the help of <br>    Bootstrap's responsive grid system.<br>
+  > Modern UI: 
+      A clean, contemporary interface that is easy to navigate and visually appealing.<br>
+  > Interactive Elements: 
+      Utilize Bootstrap's components to create a dynamic and engaging user experience.<br>
 </pre>
 <br><br>
 Usage : 
